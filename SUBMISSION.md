@@ -1,7 +1,7 @@
 # Nộp bài
 
 ## Repo
-Một người **một repo public**. Tên repo: `K5-L23-DAY09-<MSHV>-AutoQCPipeline` (không dấu, nối bằng `-`). Theo hướng dẫn lớp nếu giảng viên đặt quy ước khác.
+Một người **một repo public**. Tên repo: `K5-L23-DAY09-2a202604061-DoAnhHoang-AutoQCPipeline` (không dấu, nối bằng `-`). Theo hướng dẫn lớp nếu giảng viên đặt quy ước khác.
 
 ## Trước khi nộp
 1. Đổi dòng tiêu đề `# Day 09 Lab ...` của `README.md`: `# Day 09 Lab — <Họ và tên>: <MSHV> - <Họ và tên>`.
